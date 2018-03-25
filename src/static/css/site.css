@@ -1,0 +1,12 @@
+body{
+    background-color: #FFFFFF;
+    padding-top: 40px;
+}
+.content span p{
+    color: red;
+   
+  }
+  .content span p b{
+    color: yellowgreen;
+    font-size: 16px;
+  }
